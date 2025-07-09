@@ -19,7 +19,7 @@ const Navbar = () => {
               to="/"
               className="text-white bg-emerald-600 p-3 py-2 rounded-4xl "
             >
-              Home
+              Home New
             </Link>
             <Link
               to="/contact"
